@@ -126,6 +126,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Doctave](https://www.doctave.com/)
 - [Docs by Hashnode](https://hashnode.com/products/docs)
 - [GitBook](https://www.gitbook.com/)
+- [Ferndesk](https://ferndesk.com/)
 - [Mintlify](https://www.mintlify.com/)
 - [Netlify](https://www.netlify.com/)
 - [Read The Docs](https://readthedocs.org/)
